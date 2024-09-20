@@ -1,0 +1,6 @@
+{
+    "security.olympix.project.includePath": "src/contracts",
+    "security.olympix.detectors.reentrancyEvents": true,
+    "security.olympix.detectors.eventsPriceChange": true,
+    "security.olympix.project.analyzeWholeProject": false
+}
